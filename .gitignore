@@ -1,3 +1,4 @@
 run_tests
+Session.vim
 tests/run_tests_in_isolation
 tests/helpers/helpers.sh
